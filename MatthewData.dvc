@@ -1,0 +1,13 @@
+md5: 6085f4e7b5a1ed7a5fd6c3549147f7b2
+frozen: true
+deps:
+- path: /MatthewData
+  repo:
+    url: /Users/mdickson/Desktop/test_dvc/DataSource
+    rev_lock: cd341544f2a3aa6e761f720c0fa8b7a6ed93168c
+outs:
+- md5: 241819a0f31584838288a75af88c5384.dir
+  size: 11309752
+  nfiles: 5
+  hash: md5
+  path: MatthewData
