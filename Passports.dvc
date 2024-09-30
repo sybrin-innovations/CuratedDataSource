@@ -1,6 +1,6 @@
 outs:
-- md5: 645815d1540070ea740efe3699f554b5.dir
-  size: 630474
-  nfiles: 6
+- md5: fe506e503f93d425fd7a0b8ee8921bd8.dir
+  size: 468858
+  nfiles: 5
   hash: md5
   path: Passports
